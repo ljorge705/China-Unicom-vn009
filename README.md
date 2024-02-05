@@ -7,7 +7,7 @@ todo lo que encontre sobre el modem china unicom vn009 (no lo voy a poner en ing
 
 
 
-superuser password (adb) 
+superuser password (adb)  https://developer.android.com/tools/releases/platform-tools
 
 https://tool.zootu.cn/tools/api/007imei/
 
