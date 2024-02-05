@@ -24,4 +24,4 @@ cat /tmp/mdlcfg.sysconfig | grep SYS_SENIOR_LOGIN_PWD
 usuario: root
 contraseña: la que da el comando de arriba
 
-adios, no  he acmbiado imei ni nada, solo queria buscar el login root del modem y compartir como lo hice 👽
+adios, no  he cambiado imei ni nada, solo queria buscar el login root del modem y compartir como lo hice 👽
