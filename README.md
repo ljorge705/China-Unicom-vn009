@@ -19,6 +19,8 @@ https://tool.zootu.cn/tools/api/007imei/
 Password:lo que te dio la pagina de arriba (https://tool.zootu.cn/tools/api/007imei/)
 
 
+![Foto pa los giles](TUT.png)
+
 login web como super usuario:
 en la shell poner este comando
 
