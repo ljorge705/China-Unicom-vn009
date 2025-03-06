@@ -1,3 +1,7 @@
+SI usas este modem, estas enviando tus datos a china, se conecta a sus dns, estoy buscando una solucion
+![WARNING](DNS.png)
+
+
 # China-Unicom-vn009
 todo lo que encontre sobre el modem china unicom vn009 (no lo voy a poner en ingles, existen traductores online etc)
 
