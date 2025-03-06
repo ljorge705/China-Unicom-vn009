@@ -1,5 +1,19 @@
-SI usas este modem, estas enviando tus datos a china, se conecta a sus dns, estoy buscando una solucion
-![WARNING](DNS.png)
+> [!CAUTION]
+> ![WARNING](DNS.png)
+> SI usas este modem, estas enviando tus datos a china, se conecta a sus dns, estoy buscando una solucion
+> 
+> sh-4.4# cat /tmp/mdlcfg.sysconfig | grep DNS
+
+
+> [!NOTE]
+> Change this
+> vi  /tmp/mdlcfg.sysconfig<br/>
+> USR_WAN_LINK_DETECT_DNSV4_SERVER1="223.5.5.5"<br/>
+> USR_WAN_LINK_DETECT_DNSV4_SERVER2="119.29.29.29"<br/>
+> USR_WAN_LINK_DETECT_DNSV4_SERVER3="180.76.76.76"<br/>
+> SR_WAN_LINK_DETECT_DNSV6_SERVER1="2001:dc7:1000::1"<br/>
+> USR_WAN_LINK_DETECT_DNSV6_SERVER2="2400:3200::1"<br/>
+> USR_WAN_LINK_DETECT_DNSV6_SERVER3="2001:4860:4860::8888"<br/>
 
 
 # China-Unicom-vn009
