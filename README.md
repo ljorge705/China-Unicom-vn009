@@ -10,9 +10,12 @@ todo lo que encontre sobre el modem china unicom vn009 (no lo voy a poner en ing
 superuser password (adb)  https://developer.android.com/tools/releases/platform-tools
 
 https://tool.zootu.cn/tools/api/007imei/
+> [!NOTE]
+> adb connect 192.168.21.1:5555<br/>
+> adb shell <br/>
+> Login:superadmin<br/>
 
-adb connect 192.168.21.1:5555
-Login:superadmin
+> [!IMPORTANT]
 Password:lo que te dio la pagina de arriba (https://tool.zootu.cn/tools/api/007imei/)
 
 
