@@ -4,7 +4,7 @@ todo lo que encontre sobre el modem china unicom vn009 (no lo voy a poner en ing
 
 1 - tenia el firmware 2.5.2 y lo actualice a 2.6.0 link: https://drive.google.com/file/d/1mFwEZvrswGBBJW-IEsehn1zKaN_3wiVz/view?usp=sharing
 
-UPDATE: 2.7 lINK: https://drive.google.com/file/d/1M-jGhMjvqeNINps3nLc_I5-wt0TBN8Zw/view?usp=sharing
+UPDATE: 2.7 LINK: https://drive.google.com/file/d/1M-jGhMjvqeNINps3nLc_I5-wt0TBN8Zw/view?usp=sharing (NO FUNCIONA ADB)
 
 
 superuser password (adb)  https://developer.android.com/tools/releases/platform-tools
