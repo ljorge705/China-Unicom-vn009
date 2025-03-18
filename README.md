@@ -11,11 +11,13 @@
 > USR_WAN_LINK_DETECT_DNSV4_SERVER3="180.76.76.76"<br/>
 <br/>
 <br/>
-> mdlcfg -f USR_WAN_LINK_DETECT_DNSV4_SERVER2="8.8.8.8"<br/>
-> mdlcfg -a USR_WAN_LINK_DETECT_DNSV4_SERVER2="8.8.8.8"<br/>
-> mdlcfg -f USR_WAN_LINK_DETECT_DNSV4_SERVER3="8.8.4.4"<br/>
-> mdlcfg -a USR_WAN_LINK_DETECT_DNSV4_SERVER3="8.8.4.4"<br/>
-> mdlcfg -c
+
+> [!NOTE]
+mdlcfg -f USR_WAN_LINK_DETECT_DNSV4_SERVER2="8.8.8.8"<br/>
+mdlcfg -a USR_WAN_LINK_DETECT_DNSV4_SERVER2="8.8.8.8"<br/>
+mdlcfg -f USR_WAN_LINK_DETECT_DNSV4_SERVER3="8.8.4.4"<br/>
+mdlcfg -a USR_WAN_LINK_DETECT_DNSV4_SERVER3="8.8.4.4"<br/>
+mdlcfg -c
 
 
 
